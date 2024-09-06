@@ -1,5 +1,7 @@
 *{
     border: 1px solid black;
+    margin: 5%;
+    text-align: center;
 }
 
 h1 {
@@ -25,6 +27,7 @@ body{
 
 .bigOlTitle{
     color: rgb(103, 0, 53);
+    margin-top: 10% ;
 }
 
 .ordered{
@@ -36,7 +39,6 @@ body{
 
 #main-heading {
     background-color: rgb(164, 71, 116);
-    padding-left: 50%;
 }
 
 #sadClown {
@@ -49,10 +51,15 @@ body{
 
 #frankMan {
     width: 250px;
-    height: 100px;
-    padding: 1%;
+    height: 150px;
+    padding-left: 1%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 4%;
     border-radius: 50%;
     background-color: gold;
+    margin-bottom: 15%;
+    margin-left: 15%;
 }
 
 #portfolioLink {
