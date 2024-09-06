@@ -27,6 +27,13 @@ body{
     color: rgb(103, 0, 53);
 }
 
+.ordered{
+    color: lightpink
+}
+.unordered{
+    color: lightgreen
+}
+
 #main-heading {
     background-color: rgb(164, 71, 116);
     padding-left: 50%;
@@ -46,4 +53,14 @@ body{
     padding: 1%;
     border-radius: 50%;
     background-color: gold;
+}
+
+#portfolioLink {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+
+#linkedInLink {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
 }
